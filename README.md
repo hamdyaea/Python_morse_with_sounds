@@ -1,5 +1,5 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-§   
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)     ![Python](python.png)
+   
  
   
 # Python_morse_with_sounds      

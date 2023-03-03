@@ -1,3 +1,13 @@
+#!/usr/bin/env python3
+
+"""
+Developer : Hamdy Abou El Anein
+https://github.com/hamdyaea
+hamdy.aea@protonmail.com
+http://www.daylightlinux.ch
+"""
+
+
 import os
 os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
 import pygame
