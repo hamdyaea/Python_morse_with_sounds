@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```    
       
 ## Usage    
-To use this program, run the morse.py file and enter the text you want to translate into Morse code. The program will output the Morse code both as text and as sound.     
+To use this program, run the main.py file and enter the text you want to translate into Morse code. The program will output the Morse code both as text and as sound.     
          
 ## Example    
     
