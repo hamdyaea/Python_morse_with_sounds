@@ -1,3 +1,6 @@
+# Developer: Hamdy Abou El Anein
+# Contact: info@daylightlinux.ch
+# SPDX-License-Identifier: GPL-3.0-only
 from model.morse_code import MorsePlayer
 from view.user_input import UserInput
 
