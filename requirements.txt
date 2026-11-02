@@ -1,1 +1,4 @@
-pygame==2.2.0
+# Developer: Hamdy Abou El Anein
+# Contact: info@daylightlinux.ch
+# SPDX-License-Identifier: GPL-3.0-only
+pygame-ce>=2.5.8,<3
